@@ -1,0 +1,32 @@
+body {
+  text-align: center;
+  background-color: black;
+  font-size:18px;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  margin-top: 4px;
+}
+h2 {
+  text-align: center;
+}
+div {
+  display: block;
+  background-color: rgb(244,180,180);
+  padding: 10px;
+  margin: 5px;
+  color: black;
+  font-size:1.1em;
+}
+img{
+  width:100%;
+}
+.no-padding {
+  padding:0;
+  
+}
+#first-word{
+  color:purple;
+  font-weight:bolder;
+}
